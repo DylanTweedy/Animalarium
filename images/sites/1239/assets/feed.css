@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    padding: 0;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	background-color: #EEEEEE;
+}
+#container {
+    border: 0 solid #CCCCCC;
+    font-size: 12px;
+    height: 440px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    width: 240px;
+    background-color: #EEEEEE;
+}
+#header {
+    background-color: #EEEEEE;
+    background-image: url("http://");
+    color: #EFF6FD;
+    margin: 0;
+    padding: 5px;
+}
+#header .feed_title {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+#header .feed_title a:link {
+    color: #EFF6FD;
+    text-decoration:none;
+	font-size: 16px;
+	line-hieght:20px;
+	margin-bottom: 5px;
+}
+#header .feed_title a:visited {
+    color: #cf0404;
+    text-decoration: none;
+}
+#header .feed_title a:hover {
+    color: #cf0404;
+    text-decoration: underline;
+}
+#header .feed_title a:active {
+    color: #cf0404;
+    text-decoration: none;
+}
+#content {
+    background-color:#EEEEEE;
+    background-image: url("http://");
+    margin: 0;
+    padding: 0;
+}
+#content .feed_item {
+    border-bottom: 0 dashed #CCCCCC;
+    margin: 0 0 7px;
+    padding: 0 0 7px;
+    background-color: #EEEEEE;
+}
+#content .feed_item_title {
+    color: #045781;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+}
+#content .feed_item_title a:link {
+    color: #cf0404;
+    text-decoration: none;
+}
+#content .feed_item_title a:visited {
+    color: #cf0404;
+    text-decoration: none;
+}
+#content .feed_item_title a:hover {
+    color: #cf0404;
+    text-decoration: underline;
+}
+#content .feed_item_title a:active {
+    color:#cf0404;
+    text-decoration: none;
+}
+#content .feed_item_podcast {
+    margin: 0px;
+    padding: 0px;
+}
+#content .feed_item_description {
+    color: #000000;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0 0 0px 0px;
+    padding: 0 0px 0 0px;
+}
+#footer {
+    background-color: #EEEEEE;
+    background-image: url("http://");
+    color: #EFF6FD;
+    display: none;
+    height: 0;
+    margin: 0;
+    padding: 0;
+}

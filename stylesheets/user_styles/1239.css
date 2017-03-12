@@ -1,0 +1,21 @@
+body { font-size: 12px; }
+#footer, #copyright { color: #ffffff; }
+#footer, #copyright { font-family: Helvetica,Arial,Geneva,sans-serif; }
+#footer, #copyright { font-size: 10px; }
+#footer a, #footer a:visited, #footer a:hover, #footerHolder a, #footerHolder a:hover { color: #ffffff; }
+#container h4 { font-family: Helvetica,Arial,Geneva,sans-serif; }
+#container h4 { color: #000000; }
+#container h4 { font-size: 14px; }
+#container h3 { font-family: Helvetica,Arial,Geneva,sans-serif; }
+#container h3 { color: #000000; }
+#container h3 { font-size: 14px; }
+#container h2 { font-family: Helvetica,Arial,Geneva,sans-serif; }
+#container h2 { color: #000000; }
+#container h2 { font-size: 18px; }
+#container h1 { color: #000000; }
+#container h1 { font-family: Helvetica,Arial,Geneva,sans-serif; }
+#container h1 { font-size: 28px; }
+#container a:hover { color: #cf0404; }
+#container a { color: #cf0404; }
+#container { font-family: Helvetica,Arial,Geneva,sans-serif; }
+#container { color: #000000; }
